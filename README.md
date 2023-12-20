@@ -1,2 +1,5 @@
-# html-resume
-My Resume in HTML format
+# bootstrap-resume
+My Resume in Bootstrap format
+
+The website containing the resume is in the link below: 
+https://arvindhra.github.io/bootstrap-resume/
